@@ -1,4 +1,5 @@
-##### Oiii 👋 me chamo Amanda e sou estudande de programação!
+##### Oiii 👋 me chamo Amanda e faço faculdade de ciência da computação e sou estudante de programação front-end. 💻
+
 <div align="center">
   <a href="https://github.com/Amandaaaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandaaaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
