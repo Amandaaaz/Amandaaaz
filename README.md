@@ -1,4 +1,4 @@
-##### Olá! Bem vindo ao meu github👋 Me chamo Amanda e faço faculdade de ciência da computação e sou estudante de programação front-end. 💻
+##### Olá! Bem vindo ao meu github👋 Me chamo Amanda, faço faculdade de ciência da computação e sou estudante de programação front-end. 💻
 
 <div align="center">
   <a href="https://github.com/Amandaaaz">
